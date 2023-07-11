@@ -10,6 +10,8 @@ Read the Docs newsletter - July 2023
 News and updates
 ----------------
 
+测试修改是否成功
+
 - 🚀 We shipped support for customizing the URL path for projects and subprojects,
   allowing you to remove or customize the `/projects/` path on subprojects.
   This is enabled via Support request currently,
